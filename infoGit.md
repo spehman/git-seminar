@@ -27,4 +27,21 @@
 ![](https://avatars.mds.yandex.net/i?id=de9a408c5741608ed12fd2081b811e42a99e4491-8496937-images-thumbs&n=13)
 >>>>>>> new-branch-name
 
+
+
+
+
+
+
+
+
+
+
+
 > **git branch <branch_name>** - создать новую ветку
+
+> **git checkout -b <branch_name>** -создание ветки и переход к ней
+
+> **git commit -am "message"** - добавление файлов в отслеживание и создание коммита.
+
+>**git log --graph** - вывод на эеран истории всех коммитов с их хеш-кодами в древовидной форме
