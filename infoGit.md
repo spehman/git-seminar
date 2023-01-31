@@ -16,6 +16,15 @@
 
 **git diff** -увидеть разницу между текущим файлом и закоммиченным файлом
 
+<<<<<<< HEAD
 ## Основные команды Git 2-го семинара
+=======
+
+
+
+
+
+![](https://avatars.mds.yandex.net/i?id=de9a408c5741608ed12fd2081b811e42a99e4491-8496937-images-thumbs&n=13)
+>>>>>>> new-branch-name
 
 > **git branch <branch_name>** - создать новую ветку
